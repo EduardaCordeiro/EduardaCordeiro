@@ -8,7 +8,7 @@
     
   <br>
   
-  <h1 align="center">👨‍💻 Aprendendo</h1>
+  <h1 align="center">Skills/Learning</h1>
 
   
   <div style="display: inline_block"><br>
