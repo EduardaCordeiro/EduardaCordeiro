@@ -12,7 +12,7 @@
   <h1 align="center">👨‍💻 Aprendendo</h1>
 
   
-  <div style="aling-center"><br>
+  <div style="display: inline_block"><br>
     
     
   <img align="center" alt="Lordjv-HTML" title="HTML 5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
