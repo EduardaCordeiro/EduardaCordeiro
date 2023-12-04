@@ -8,16 +8,17 @@
     
   <br>
   
-  <h1 align="center">Skills/Learning</h1>
+  <h1 align="center">SKILLS/LEARNING</h1>
 
   
   <div style="display: inline_block"><br>
     
-    
+  <div align="center"> 
   <img align="center" alt="Lordjv-HTML" title="HTML 5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lordjv-CSS" title="CSS 3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  alt="Lordjv-CSS" title="CSS 3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lordjv-Js" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lordjv-github" title="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </div> 
      
 </div> 
  
